@@ -1,1 +1,3 @@
 # javaScript
+
+Learning fundamental topics.
